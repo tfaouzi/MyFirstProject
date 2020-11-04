@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6b8c4bd-d9d6-4f01-97f0-5841132ac7b6" name="localhost" url="http://localhost/Projet_git">
+        <fileTransfer port="0" mountedRoot="C:\wamp64\www\Projet_git" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
